@@ -1,4 +1,4 @@
-module helloworld
+module github.com/am2601/go-test
 
 go 1.18
 
