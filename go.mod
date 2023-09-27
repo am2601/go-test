@@ -2,8 +2,6 @@ module helloworld
 
 go 1.18
 
-version v1.0.0
-
 require github.com/spf13/cobra v1.7.0
 
 require (
